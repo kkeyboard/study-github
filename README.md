@@ -9,4 +9,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/kkeyboard/study-github.git
 git push --set-upstream origin main
 
-## Next
+## omaewamoshindeiru
